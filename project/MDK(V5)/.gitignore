@@ -1,0 +1,83 @@
+# Keil MDK5 files
+*.uvguix*
+*.uvoptx
+*.bak
+*.orig
+*.dep
+*.map
+*.build_log.htm
+*.htm
+*.plg
+*.tmp
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.idb
+*.aps
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Object files
+Objects/
+Listings/
+Output/
+*.o
+*.d
+*.crf
+*.lnp
+*.sct
+*.axf
+*.hex
+*.bin
+*.lst
+
+# EventRecorder files
+*.scvd
+
+# JLink files
+JLinkLog.txt
+JLinkSettings.ini
+
+# VS Code files
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Dependency files
+*.dep
+
+# Debug files
+*.dbgconf
+debug.ini
+DebugConfig/
+
+# Temporary files
+*.tmp
+*.temp
